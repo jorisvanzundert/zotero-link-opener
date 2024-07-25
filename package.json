@@ -1,0 +1,32 @@
+{
+	"name": "zotero-link-opener",
+	"description": "Displays a hover enabling a user to open a link to a Zotero item directly in Zotero stand alone client.",
+	"version": "0.0.1",
+	"publisher": "huygens-dhlab",
+	"repository": "https://github.com/vscode-extension-samples/helloworld-minimal-sample",
+	"engines": {
+		"vscode": "^1.74.0"
+	},
+	"activationEvents": [
+		"onLanguage:markdown"
+	],
+	"main": "./extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.openZoteroLink",
+				"title": "Open Zotero link"
+			}
+		],
+		"keybindings": [
+			{
+			  "command": "extension.openZoteroLink",
+			  "when": "editorLangId == 'markdown'"
+			}
+		  ]
+	},
+	"scripts": {},
+	"devDependencies": {
+		"@types/vscode": "^1.73.0"
+	}
+}
