@@ -10,6 +10,7 @@
 
 This extension solves that. Hovering over a Zotero item URI, just click “Follow link”.
 
+Note that this extension only works for Zotero stand-alone version.
 
 ## Installing
 This extension is not published through the VSCode Marketplace, because I do not feel like the added administration. So instead:
