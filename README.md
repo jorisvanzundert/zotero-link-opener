@@ -14,9 +14,9 @@ This extension solves that. Hovering over a Zotero item URI, just click “Follo
 ## Installing
 This extension is not published through the VSCode Marketplace, because I do not feel like the added administration. So instead:
 
-1. Download the ``.vsix'' file, and:
+1. Download the `.vsix` file, and:
 2. In VSCode/VSCodium Go to the Extensions view.
-3. Click Views and More Actions (the button marked with the ellipsis ('…') top right on the tree explorer in VSCode/VSCodidum.
+3. Click Views and More Actions (the button marked with the ellipsis (‘…’) top right on the tree explorer in VSCode/VSCodidum.
 4. Select Install from VSIX…
 
 
