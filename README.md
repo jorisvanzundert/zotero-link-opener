@@ -25,5 +25,6 @@ This extension is not published through the VSCode Marketplace, because I do not
 The zotero-markdown-translator is your best friend. Download and install it from GitHub: https://github.com/silentdot/zotero-markdown-translator/. Once installed you can drag and drop Zotero items (and even links to highlights and annotations in PDFs) from Zotero to a Markdown document in VSCode/VSCodium. 
 
 Happy bibliographing!
+ 
  --
 
