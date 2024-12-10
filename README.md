@@ -8,7 +8,7 @@
 [Andrews, 2023, p. 1](zotero://select/library/items/PHH2T7NH)) ([pdf](zotero://open-pdf/library/items/HU2CX6DJ?page=1&annotation=SQXWFITU))
 ```
 
-This extension solves that. Hovering over a Zotero item URI, just click “Follow link”.
+This extension solves that. Hovering over a Zotero item URI, just click “Open link”.
 
 Note that this extension only works for Zotero stand-alone version.
 
